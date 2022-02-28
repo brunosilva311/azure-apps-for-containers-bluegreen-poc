@@ -1,5 +1,5 @@
 @description('Name of the app service plan')
-param appServiceName string = "biceplab311"
+param appServiceName string = "azbiceplab311"
 
 @description('Location of the app service plan')
 param appServiceLocation string
